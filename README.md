@@ -1,5 +1,5 @@
 # FEH Program Robot Project
-I did all of the programming/electronics for the robot. It is properly-ish documented on this website.
+I was primarily responsible for the programming/electronics for the robot. It is all properly-ish documented on this website.
 
 https://u.osu.edu/23feh0910c/2023/02/20/78/#more-78
 
